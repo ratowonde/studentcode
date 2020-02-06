@@ -1,1 +1,3 @@
-# studentcode
+# maven-project
+
+Simple Maven Project
